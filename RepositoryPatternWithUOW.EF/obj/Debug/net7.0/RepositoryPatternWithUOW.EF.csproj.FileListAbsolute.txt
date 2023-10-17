@@ -1,0 +1,17 @@
+A:\Pro_AspMvc\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\bin\Debug\net7.0\RepositoryPatternWithUOW.EF.deps.json
+A:\Pro_AspMvc\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\bin\Debug\net7.0\RepositoryPatternWithUOW.EF.runtimeconfig.json
+A:\Pro_AspMvc\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\bin\Debug\net7.0\RepositoryPatternWithUOW.EF.dll
+A:\Pro_AspMvc\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\bin\Debug\net7.0\RepositoryPatternWithUOW.EF.pdb
+A:\Pro_AspMvc\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\bin\Debug\net7.0\RepositoryPatternWithUOW.Core.dll
+A:\Pro_AspMvc\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\bin\Debug\net7.0\RepositoryPatternWithUOW.Core.pdb
+A:\Pro_AspMvc\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net7.0\RepositoryPatternWithUOW.EF.csproj.AssemblyReference.cache
+A:\Pro_AspMvc\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net7.0\RepositoryPatternWithUOW.EF.GeneratedMSBuildEditorConfig.editorconfig
+A:\Pro_AspMvc\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net7.0\RepositoryPatternWithUOW.EF.AssemblyInfoInputs.cache
+A:\Pro_AspMvc\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net7.0\RepositoryPatternWithUOW.EF.AssemblyInfo.cs
+A:\Pro_AspMvc\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net7.0\RepositoryPatternWithUOW.EF.csproj.CoreCompileInputs.cache
+A:\Pro_AspMvc\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net7.0\RepositoryPatternWithUOW.EF.csproj.CopyComplete
+A:\Pro_AspMvc\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net7.0\RepositoryPatternWithUOW.EF.dll
+A:\Pro_AspMvc\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net7.0\refint\RepositoryPatternWithUOW.EF.dll
+A:\Pro_AspMvc\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net7.0\RepositoryPatternWithUOW.EF.pdb
+A:\Pro_AspMvc\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net7.0\RepositoryPatternWithUOW.EF.genruntimeconfig.cache
+A:\Pro_AspMvc\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net7.0\ref\RepositoryPatternWithUOW.EF.dll

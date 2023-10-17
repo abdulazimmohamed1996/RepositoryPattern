@@ -1,0 +1,12 @@
+A:\Pro_AspMvc\RepositoryPatternWithUOW\RepositoryPatternWithUOW.Core\bin\Debug\net7.0\RepositoryPatternWithUOW.Core.deps.json
+A:\Pro_AspMvc\RepositoryPatternWithUOW\RepositoryPatternWithUOW.Core\bin\Debug\net7.0\RepositoryPatternWithUOW.Core.dll
+A:\Pro_AspMvc\RepositoryPatternWithUOW\RepositoryPatternWithUOW.Core\bin\Debug\net7.0\RepositoryPatternWithUOW.Core.pdb
+A:\Pro_AspMvc\RepositoryPatternWithUOW\RepositoryPatternWithUOW.Core\obj\Debug\net7.0\RepositoryPatternWithUOW.Core.csproj.AssemblyReference.cache
+A:\Pro_AspMvc\RepositoryPatternWithUOW\RepositoryPatternWithUOW.Core\obj\Debug\net7.0\RepositoryPatternWithUOW.Core.GeneratedMSBuildEditorConfig.editorconfig
+A:\Pro_AspMvc\RepositoryPatternWithUOW\RepositoryPatternWithUOW.Core\obj\Debug\net7.0\RepositoryPatternWithUOW.Core.AssemblyInfoInputs.cache
+A:\Pro_AspMvc\RepositoryPatternWithUOW\RepositoryPatternWithUOW.Core\obj\Debug\net7.0\RepositoryPatternWithUOW.Core.AssemblyInfo.cs
+A:\Pro_AspMvc\RepositoryPatternWithUOW\RepositoryPatternWithUOW.Core\obj\Debug\net7.0\RepositoryPatternWithUOW.Core.csproj.CoreCompileInputs.cache
+A:\Pro_AspMvc\RepositoryPatternWithUOW\RepositoryPatternWithUOW.Core\obj\Debug\net7.0\RepositoryPatternWithUOW.Core.dll
+A:\Pro_AspMvc\RepositoryPatternWithUOW\RepositoryPatternWithUOW.Core\obj\Debug\net7.0\refint\RepositoryPatternWithUOW.Core.dll
+A:\Pro_AspMvc\RepositoryPatternWithUOW\RepositoryPatternWithUOW.Core\obj\Debug\net7.0\RepositoryPatternWithUOW.Core.pdb
+A:\Pro_AspMvc\RepositoryPatternWithUOW\RepositoryPatternWithUOW.Core\obj\Debug\net7.0\ref\RepositoryPatternWithUOW.Core.dll
